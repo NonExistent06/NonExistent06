@@ -4,11 +4,6 @@
 	<br>
 	&ldquo; A simple furry that loves to create discord bots. &rdquo;
 </div>
-
-<br>
-	
-</div>
-
 <hr>
 
 ## 🔧 Langs / Tools / Frameworks
