@@ -1,4 +1,4 @@
-# 👋I'm NonExistent
+# I'm NonExistent
 <div style='font-size:1.2em'>
 	<b>Freelance Programmer and Novice Discord Bot Developer</b>
 	<br>
