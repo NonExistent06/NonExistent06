@@ -1,4 +1,4 @@
-# 👋Hey there I'm NonExistent
+# 👋I'm NonExistent
 <div style='font-size:1.2em'>
 	<b>Freelance Programmer and Novice Discord Bot Developer</b>
 	<br>
@@ -22,10 +22,5 @@
 		<img src='https://img.shields.io/badge/code-html-E34F26?logo=html5&logoWidth=30&labelColor=black&style=for-the-badge' alt='HTML'>
 	</a>
 	&emsp;
-	<a href='https://developer.mozilla.org/en-US/docs/Web/CSS'>
-		<img src='https://img.shields.io/badge/code-css-1572B6?logo=css3&logoWidth=30&labelColor=black&style=for-the-badge&logoColor=1572B6' alt='CSS'>
-	</a>
-	&ensp;
-
 </div>
 <hr>
