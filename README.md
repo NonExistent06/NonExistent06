@@ -6,7 +6,7 @@
 </div>
 <hr>
 
-## 🔧 Langs / Tools / Frameworks
+## 🔧 Langs
 
 <div align='left' style="display: flex; justify-content: space-between;">
 	<!-- Programming Languages. -->
