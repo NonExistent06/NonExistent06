@@ -6,13 +6,6 @@
 </div>
 
 <br>
-
-## ⚡ Get Me on
-
-<div align='left' style="display: flex; justify-content: space-between;">
-	<a href='#'>
-	<img src='https://img.shields.io/badge/Discord-Dev%237558-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=30&labelColor=000' alt='Discord - NonExistent#001'>
-	</a>
 	<p>
 	More Coming Soon..
 	</p>
@@ -43,5 +36,3 @@
 
 </div>
 <hr>
-<img src="https://komarev.com/ghpvc/?username=devloves&style=flat-square">
-
